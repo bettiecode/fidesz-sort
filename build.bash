@@ -1,0 +1,1 @@
+gcc fidesz.c -o fidesz -O1
